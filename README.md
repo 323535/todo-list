@@ -1,4 +1,4 @@
-# PROJECT 1. SIMPLE TO-DO LIST
+# PROJECT 0. SIMPLE TO-DO LIST
 
 A minimalist To-Do List built with HTML, CSS and JavaScript.
 This project was created for learning purposes to practice basic frontend skills: DOM manipulation, event handling, localStorage and data filtering.
